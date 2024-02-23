@@ -75,7 +75,7 @@ NameWare-M97K-Lifetime
 NameWare-EPX5-month
 NameWare-IA0Z-month
 NameWare-LSMD-month
-NameWare-7F95-month
+
 NameWare-UEKM-month
 NameWare-SDCO-month
 NameWare-ZWVN-month
